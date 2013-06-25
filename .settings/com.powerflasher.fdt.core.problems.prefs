@@ -1,0 +1,7 @@
+#Mon Feb 07 17:06:36 CET 2011
+com.powerflasher.fdt.declarations.localVariableNeverUsed.AS3=Disabled
+com.powerflasher.fdt.declarations.parameterNeverUsed.AS3=Disabled
+com.powerflasher.fdt.declarations.privateFunctionNeverUsed.AS3=Disabled
+com.powerflasher.fdt.declarations.privateVariableNeverUsed.AS3=Disabled
+com.powerflasher.fdt.unresolvable.unresolvableTypeReference.AS3=Disabled
+eclipse.preferences.version=1
